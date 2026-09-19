@@ -87,3 +87,7 @@ The poller calls process bytes with the decoded payload and the source_name, rec
 - Taxpayer identifiers are masked.
 - Status severity mapping is stable and asserted by tests.
 - The repository pushes cleanly to the vokrix-products org on main.
+
+Dashboard: https://vendorverify-supplier-w-9-license-valida.vokrix.co
+Vercel: vendorverify-supplier-w-9-license-valida
+
