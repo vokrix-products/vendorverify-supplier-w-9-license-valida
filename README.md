@@ -90,4 +90,3 @@ The poller calls process bytes with the decoded payload and the source_name, rec
 
 Dashboard: https://vendorverify-supplier-w-9-license-valida.vokrix.co
 Vercel: vendorverify-supplier-w-9-license-valida
-
